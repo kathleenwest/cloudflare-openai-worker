@@ -1,0 +1,11 @@
+name = "openai-worker"
+type = "javascript"
+main = "src/index.js"
+account_id = "your_account_id"   # 🔐 Replace with your real Cloudflare account ID
+workers_dev = true
+
+compatibility_date = "2025-06-14"
+
+routes = [
+  { pattern = "your_url_here/*" }
+]
