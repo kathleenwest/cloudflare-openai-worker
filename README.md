@@ -123,6 +123,21 @@ curl -X POST https://<your-worker-url>/image \
 - [`package.json`](package.json): Project dependencies and scripts.
 
 ---
+## Project Demo Live Site
+
+Coming Soon!
+
+---
+## Demo and Tutorial Video
+
+Coming Soon!
+
+---
+## Demo Pictures
+
+Coming Soon!
+
+---
 
 ## License
 
