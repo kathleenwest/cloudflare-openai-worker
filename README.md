@@ -1,6 +1,9 @@
 # OpenAI Worker on Cloudflare
 
-A Cloudflare Worker that exposes simple HTTP endpoints for generating Madlib stories and images using OpenAI APIs.  
+A Cloudflare Worker that exposes simple HTTP endpoints for generating Madlib stories and images using OpenAI APIs. 
+
+![a dog with googles flying on a Cloudflare cloud](images/cloudflaredoggie.png)
+
 Built with [itty-router](https://github.com/kwhitley/itty-router) and the [OpenAI Node.js SDK](https://github.com/openai/openai-node).
 
 ---
