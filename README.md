@@ -123,22 +123,18 @@ curl -X POST https://<your-worker-url>/image \
 - [`package.json`](package.json): Project dependencies and scripts.
 
 ---
-## Project Demo Live Site
+## Frontend Project
+
+[wacky-madlib-frontend](https://github.com/kathleenwest/wacky-madlib-frontend)
+
+A playful web app for generating wacky, AI-powered stories and images. Built with Vite and vanilla JS, it connects to an OpenAI backend via Cloudflare Workers and the Cloudflare AI Gateway for secure and efficient AI API usage. Great for fun, creativity, and demoing modern AI integration.
+
+To be able to play with the app, you can visit the live demo at: https://kathleenwest.github.io/wacky-madlib-frontend/
+
+---
+## Demo Video
 
 Coming Soon!
 
 ---
-## Demo and Tutorial Video
-
-Coming Soon!
-
----
-## Demo Pictures
-
-Coming Soon!
-
----
-
-## License
-
-MIT © 2025 Kathleen West
+Keep the nonsense alive!
