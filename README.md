@@ -134,7 +134,7 @@ To be able to play with the app, you can visit the live demo at: https://kathlee
 ---
 ## Demo Video
 
-Coming Soon!
-
+- Watch the funny marketing demo video on [YouTube](https://www.youtube.com/shorts/qyWQo9VDbt8 "😂Wacky Madlib App Marketing Video")
+- Watch the demo video on COMING SOON!
 ---
 Keep the nonsense alive!
