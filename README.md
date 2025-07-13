@@ -132,9 +132,32 @@ A playful web app for generating wacky, AI-powered stories and images. Built wit
 To be able to play with the app, you can visit the live demo at: https://kathleenwest.github.io/wacky-madlib-frontend/
 
 ---
-## Demo Video
+## Demo Videos
 
-- Watch the funny marketing demo video on [YouTube](https://www.youtube.com/shorts/qyWQo9VDbt8 "😂Wacky Madlib App Marketing Video")
-- Watch the demo video on COMING SOON!
+### Wacky Madlib App Marketing Video
+
+😂Wacky Madlib App Made THIS?! [Watch on YouTube](https://www.youtube.com/shorts/qyWQo9VDbt8 "😂Wacky Madlib App Marketing Video")
+
+🦝✨ Ever wondered what happens when you mix AI with total nonsense? Meet the Wacky Madlib App—where YOU choose the words (like “Disco Raccoon,” “Boogie,” and “Squishy”), and the AI turns them into a hilariously unhinged story… then generates an image to match. Yes, it’s as weird as it sounds—and yes, you’re going to love it.
+
+🎉 In this short demo, watch the magic unfold as our AI spins your wildest word combos into a story that makes zero sense and 100% joy. Bonus: You get to see a raccoon in bell-bottoms. You’re welcome.
+
+🧠 Built with Cloudflare Workers + AI wizardry
+🎨 Story + Image = Instant chaos
+😂 Try it. Share it. Confuse your friends.
+👉 Like, comment, and subscribe for more AI-powered absurdity!
+
+Watch the funny marketing demo video on [YouTube](https://www.youtube.com/shorts/qyWQo9VDbt8 "😂Wacky Madlib App Marketing Video")
+
+### Behind the Code, Architecture, and Demo
+
+🎬 Madlibs, Mayhem & Magic: Behind the Code and Demo of My AI Generator [Watch on Youtube](https://www.youtube.com/watch?v=LTxtzDpAH1A "Behind the Code and Demo of My AI Generator")
+
+Ready for an AI-powered rollercoaster of absurdity and innovation? In this demo, I take you deep into the colorful chaos of my Madlib Generator web app, where users throw in wild nouns, quirky verbs, and eccentric adjectives to spark utterly ridiculous stories. Once a story is born, DALL·E jumps in to create matching visuals—unless you're stuck in cache déjà vu! 💥 This app is lightning-fast thanks to Cloudflare Workers and a strategically crafted AI Gateway that caches responses, reduces costs, and keeps the backend humming.
+
+But it’s not just about the giggles—this walkthrough dives into the technical nuts and bolts. I break down the architecture from frontend to backend, show how token usage and caching strategies are logged in real time, and even zoom into analytics dashboards to analyze traffic patterns, response times, and OpenAI API usage legs. Whether you're here for the weird stories or the sleek design powered by vanilla JavaScript, it’s a wild blend of creativity, performance, and practical engineering. Buckle up, because this isn’t just a demo—it’s a celebration of playful problem-solving at the edge. 🚀🧠
+
+Watch the complete video on [Youtube](https://www.youtube.com/watch?v=LTxtzDpAH1A "Behind the Code and Demo of My AI Generator")
+
 ---
 Keep the nonsense alive!
